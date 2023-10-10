@@ -1,0 +1,23 @@
+{
+  "name": "Task-Manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/leulkashay/Task-Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leulkashay/Task-Manager/issues"
+  },
+  "homepage": "https://github.com/leulkashay/Task-Manager#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
